@@ -1,0 +1,15 @@
+Projeto de Aplicativo para gerenciar duas tabelas com PHP
+
+Este aplicativo usará os recursos:
+
+- PDO
+- Paginação com o plugin do jQuery bootpag
+- Busca
+- BootStrap
+
+Mas será construído inteiramente com PHP estruturado
+
+Este projeto usará duas tabelas: clientes e produtos e terá um menu inicial
+com links para as duas tabelas.
+
+
