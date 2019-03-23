@@ -17,7 +17,7 @@ https://www.kodingmadesimple.com/2017/01/simple-ajax-pagination-in-jquery-php-pd
 
 ## Tutorial detalhado com a criação dos aplicativos, passo a passo:
 
-
+https://github.com/ribafs/aplicativos-php/blob/master/CriacaoAplicativos_%20PHP.pdf
 
 ## Licença
 
