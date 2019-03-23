@@ -23,6 +23,10 @@ Mais dois aplicativos que gerenciam duas tabelas cada, com um menu inicial, um e
 
 https://github.com/ribafs/aplicativos-php/blob/master/CriacaoAplicativos_%20PHP.pdf
 
+## Sugestões
+
+Serão muito bem vindas.
+
 ## Licença
 
 MIT
