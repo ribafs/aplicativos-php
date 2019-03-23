@@ -4,7 +4,7 @@ Atualmente é geralmente mais produtivo criar aplicativos usando um framework, m
 aplicativo do zero, apenas com código nativo do PHP ou customizado é vantajoso: para um maior aprendizado do PHP e seus recursos 
 nativos e para uma maior customização do código.
 
-Estes aplicativos contam com bons recursos:
+## Alguns dos recursos:
 
 - PDO
 - Paginação através do plugin para jQuery bootpag
@@ -14,6 +14,10 @@ Estes aplicativos contam com bons recursos:
 
 Ainda adicionei o código do qual parti para a aplicação dos quatro, que veio daqui (bootpag_simple):
 https://www.kodingmadesimple.com/2017/01/simple-ajax-pagination-in-jquery-php-pdo-mysql.html
+
+## Os quatro aplicativos
+São dois CRUDs, sendo um com código inteiramente estruturado e ourto orientado a objetos.
+Mais dois aplicativos que gerenciam duas tabelas cada, com um menu inicial, um estruturado e outro orientado a objetos.
 
 ## Tutorial detalhado com a criação dos aplicativos, passo a passo:
 
