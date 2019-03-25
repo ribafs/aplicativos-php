@@ -1,8 +1,7 @@
 # Quatro aplicativos em PHP do zero e com bons recursos
 
-Atualmente é geralmente mais produtivo criar aplicativos usando um framework, mas pelo menos em duas situações a criação do 
-aplicativo do zero, apenas com código nativo do PHP ou customizado é vantajoso: para um maior aprendizado do PHP e seus recursos 
-nativos e para uma maior customização do código.
+Atualmente é geralmente mais produtivo criar aplicativos usando um framework, mas a criação do aplicativo do zero apenas com código nativo do PHP ou customizado é vantajoso: para um maior aprendizado do PHP e seus recursos 
+nativos e para uma maior customização do código, assim como aprender a usar o excelente framework BootStrap.
 
 ## Alguns dos recursos:
 
