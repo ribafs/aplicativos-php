@@ -48,7 +48,7 @@ $total_pages = ceil($rows[0]/$row_limit);
     
 <script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
 <script src="js/bootstrap.min.js" type="text/javascript"></script>
-<script src="js/jquery.bootpag.min.js" type="text/javascript"></script>
+<script src="js/jquery-3.5.0.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 $(document).ready(function() {
